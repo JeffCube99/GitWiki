@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
-=======================================
+GitWiki
+=======
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+A wiki for things relating to git.
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+The git wiki pages can be accessed at https://gitwiki.readthedocs.io/en/latest/
