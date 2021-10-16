@@ -4,9 +4,11 @@ Welcome to GitWiki
 
 **GitWiki** is a wiki containing information on various topics concerning Git
 
-.. note::
+..  note::
 
-   This project is under active development.
+    This project is under active development.
 
-.. toctree::
+..  toctree::
+    :maxdepth: 2
 
+    github/index
